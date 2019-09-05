@@ -1,0 +1,112 @@
+.achievements-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(251, 202, 200);
+  padding: 50px 0px 50px 0px;
+  align-items: center;
+}
+
+.ach-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  padding: 30px 0px;
+}
+
+.ach-logo-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.ach-info-wrapper {
+  padding: 20px;
+}
+
+.ach-img {
+  width: 30vw;
+  height: 30vw;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.ach-block {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.ach-title {
+  font-family: "Josefin Sans";
+  font-weight: 600;
+  font-size: 1.3em;
+  margin: 0px;
+}
+
+.ach-info {
+  margin: 0px;
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-size: 0.9em;
+  font-style: italic;
+  color: rgb(37, 182, 81);
+}
+
+.ach-write-up {
+  padding: 0px;
+  margin: 10px 0px 0px 0px;
+  font-family: "Josefin Sans";
+  font-size: 1em;
+  text-align: justify;
+}
+
+@media only screen and (min-width: 768px) {
+  .ach-wrapper {
+    width: 80%;
+  }
+
+  .ach-title {
+    font-size: 1.4em;
+  }
+
+  .ach-info {
+    font-size: 1em;
+  }
+
+  .ach-write-up {
+    font-size: 1.2em;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .ach-wrapper {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .ach-block {
+    width: 45%;
+    display: inline-flex;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  }
+
+  .ach-logo-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .ach-img {
+    width: 10vw;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .ach-info-wrapper {
+    padding: 30px;
+  }
+}

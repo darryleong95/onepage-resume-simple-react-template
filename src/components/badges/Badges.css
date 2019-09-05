@@ -1,0 +1,99 @@
+.badges {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 50px 0px 100px 0px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.badges-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.badges-blocks {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.badges-logoimg {
+  width: 30vw;
+  height: 30vw;
+  margin: 0px;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+
+.name {
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: 700;
+  line-height: 1.3em;
+  font-family: "Raleway";
+  color: rgb(63, 63, 63);
+}
+
+@media only screen and (min-width: 768px) {
+  .badges {
+    width: 100%;
+  }
+
+  .badges-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    justify-content: space-evenly;
+  }
+
+  .badges-blocks {
+    margin: 0px;
+    padding: 0px;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .badges-logoimg {
+    width: 20vw;
+    height: auto;
+  }
+
+  .name {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .badges {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .badges-wrapper {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px auto;
+  }
+
+  .badges-blocks {
+    width: 33%;
+    align-content: space-between;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .badges-logoimg {
+    width: 33%;
+    height: auto;
+    border-radius: 50%;
+  }
+}
