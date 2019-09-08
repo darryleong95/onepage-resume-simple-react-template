@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d2926a08a54c091d74166f9c3ab72f",
+    "revision": "d97ebd7c217c5ece46a115daf186714b",
     "url": "/onepage-resume-simple-react-template/index.html"
   },
   {
-    "revision": "85b8a8a5b86c040de367",
-    "url": "/onepage-resume-simple-react-template/static/css/main.85c109dc.chunk.css"
+    "revision": "f368d5c48db8b9e18047",
+    "url": "/onepage-resume-simple-react-template/static/css/2.22921dbe.chunk.css"
   },
   {
-    "revision": "c36f94813127e0289ea0",
-    "url": "/onepage-resume-simple-react-template/static/js/2.8ae53aba.chunk.js"
+    "revision": "992ed8c37bf94860b06a",
+    "url": "/onepage-resume-simple-react-template/static/css/main.26ff872b.chunk.css"
   },
   {
-    "revision": "85b8a8a5b86c040de367",
-    "url": "/onepage-resume-simple-react-template/static/js/main.20c1b586.chunk.js"
+    "revision": "f368d5c48db8b9e18047",
+    "url": "/onepage-resume-simple-react-template/static/js/2.e2c5bdb9.chunk.js"
   },
   {
-    "revision": "e5b7779c1c846e64d4b3",
-    "url": "/onepage-resume-simple-react-template/static/js/runtime~main.19230b25.js"
+    "revision": "992ed8c37bf94860b06a",
+    "url": "/onepage-resume-simple-react-template/static/js/main.55751f10.chunk.js"
+  },
+  {
+    "revision": "2e63e01ecc0f74dcdf99",
+    "url": "/onepage-resume-simple-react-template/static/js/runtime~main.1156a431.js"
   },
   {
     "revision": "62a14559e15ef57fe5bf354b716e6e56",
