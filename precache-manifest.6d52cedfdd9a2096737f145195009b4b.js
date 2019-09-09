@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d97ebd7c217c5ece46a115daf186714b",
+    "revision": "0f51e483003a401eefd023d2471eeb58",
     "url": "/onepage-resume-simple-react-template/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onepage-resume-simple-react-template/static/css/2.22921dbe.chunk.css"
   },
   {
-    "revision": "992ed8c37bf94860b06a",
-    "url": "/onepage-resume-simple-react-template/static/css/main.26ff872b.chunk.css"
+    "revision": "01fede18aa4828f19911",
+    "url": "/onepage-resume-simple-react-template/static/css/main.524900a4.chunk.css"
   },
   {
     "revision": "f368d5c48db8b9e18047",
     "url": "/onepage-resume-simple-react-template/static/js/2.e2c5bdb9.chunk.js"
   },
   {
-    "revision": "992ed8c37bf94860b06a",
-    "url": "/onepage-resume-simple-react-template/static/js/main.55751f10.chunk.js"
+    "revision": "01fede18aa4828f19911",
+    "url": "/onepage-resume-simple-react-template/static/js/main.88ac5452.chunk.js"
   },
   {
     "revision": "2e63e01ecc0f74dcdf99",
